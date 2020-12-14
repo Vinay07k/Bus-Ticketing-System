@@ -16,7 +16,7 @@ The application has the following functionalities:
 Let's see how it works...
 
 ### Main Menu Panel
-![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk.jpg)
+![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk.jpg | width = "400" height = "200")
 
 ### Admin Panel
 ![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk2.jpg)
