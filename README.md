@@ -15,6 +15,15 @@ The application has the following functionalities:
 ## Functionality
 Let's see how it works...
 
+### Main Menu Panel
+![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk.jpg)
+
+### Admin Panel
+![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk2.jpg)
+
+### Customer Panel
+![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk1.jpg)
+
 The given below project report might be more than enough for referring. Click the link:\n
 https://drive.google.com/file/d/1FHwn-7NGITbxn51oHe2tOlKQrBu3e5Kl/view
 
