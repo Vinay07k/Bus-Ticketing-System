@@ -19,10 +19,10 @@ Let's see how it works...
 ![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk.jpg)
 
 ### Admin Panel
-<img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk2.jpg" width="423" height="250">
+<img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk2.jpg" width="424" height="250">
 
 ### Customer Panel
-<img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk1.jpg" width="423" height="250">
+<img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk1.jpg" width="424" height="250">
 
 
 The given below project report might be more than enough for referring. Click the link:
