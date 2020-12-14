@@ -1,4 +1,4 @@
-# Movie Ticket Booking System in C++
+# Bus Ticketing System in C++
 
 ## Overview
 
