@@ -19,7 +19,7 @@ Let's see how it works...
 ![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk.jpg)
 
 ### Admin Panel
-<img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk2.jpg" width="420" height="250">
+<img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk2.jpg" width="423" height="250">
 
 ### Customer Panel
 ![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk1.jpg)
