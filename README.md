@@ -22,7 +22,7 @@ Let's see how it works...
 <img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk2.jpg" width="423" height="250">
 
 ### Customer Panel
-![](https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk1.jpg)
+<img src="https://raw.githubusercontent.com/Thevinaypatwal/Bus-Ticketing-System/main/vk1.jpg" width="423" height="250">
 
 The given below project report might be more than enough for referring. Click the link:\n
 https://drive.google.com/file/d/1FHwn-7NGITbxn51oHe2tOlKQrBu3e5Kl/view
