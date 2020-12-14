@@ -12,6 +12,7 @@ The application has the following functionalities:
 * booking the ticket
 * cancel the ticket
 
+## Functionality
 Let's see how it works...
 
 The given below project report might be more than enough for referring. Click the link:\n
